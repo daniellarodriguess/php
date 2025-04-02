@@ -44,7 +44,9 @@ Mostrar mensagem de erro para números lidos que sejam menores que 0
 
 ## Exercício 6 - Sequência
 
-Fazer um script que calcule e escreva a soma dos 50 primeiros termos da seguinte série: 
+Fazer um script que calcule e escreva a soma dos 50 primeiros termos da seguinte série:
+
+![image](https://github.com/user-attachments/assets/4560b94c-356a-4565-a029-07193346262b)
 
 ## Exercício 7 - Somar números pares
 
